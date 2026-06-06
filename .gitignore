@@ -1,6 +1,3 @@
-# Exclure le dossier flutter
-flutter/
-
 # Dart
 .dart_tool/
 .packages
